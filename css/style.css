@@ -49,6 +49,13 @@ body {
     width: 30px;
 }
 
+/* PER RENDERE TONDA L'ICONA DI BATMAN
+.book .book-icons .book-icon{
+    aspect-ratio: 1 / 1;
+    border-radius: 50%;
+    object-fit: cover;
+} */
+
 .book-title {
     margin-top: 10px;
     margin-bottom: 10px;

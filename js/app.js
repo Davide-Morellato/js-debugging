@@ -91,6 +91,9 @@ const iconsByGenres = {
     travels: 'travels',
     biography: 'biography',
     robot: 'robot',
+    'science fiction': 'science-fiction',
+    thriller: 'thriller',
+    humour: 'humour'
 };
 
 const genresLabels = {
